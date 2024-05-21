@@ -103,6 +103,7 @@
 ###
 
  <a href="https://www.leetcode.com/vinayytyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vinayytyagi" height="50" width="60" /></a>
+ &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://auth.geeksforgeeks.org/user/vinayytyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vinayytyagi" height="50" width="60" /></a>
 
 ###
