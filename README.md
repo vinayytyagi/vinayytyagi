@@ -11,9 +11,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinayytyagi&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="175" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayytyagi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=true&order=2" height="175" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=vinayytyagi&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=20&date_format=M%20j%5B,%20Y%5D&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayytyagi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=true&order=2" height="160" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=vinayytyagi&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=20&date_format=M%20j%5B,%20Y%5D&order=3" height="160" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinayytyagi&radius=200&theme=dracula&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
@@ -84,6 +83,8 @@
 ###
 
 <div align="left">
+  <a href="https://www.leetcode.com/vinayytyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vinayytyagi" height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/vinayytyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vinayytyagi" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/vinayytyagi/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
@@ -100,44 +101,6 @@
 </div>
 
 ###
-
-
-
-
-
-
-
-
-
-<br>
-<br>
-<br>
-<br>
-
-
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayytyagi&label=Profile%20views&color=0e75b6&style=flat" alt="vinayytyagi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinayytyagi" alt="vinayytyagi" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/vinayytyagi" target="blank"><img src="https://img.shields.io/twitter/follow/vinayytyagi?logo=twitter&style=for-the-badge" alt="vinayytyagi" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-
-<a href="https://www.leetcode.com/vinayytyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vinayytyagi" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vinayytyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vinayytyagi" height="30" width="40" /></a>
-</p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayytyagi&show_icons=true&locale=en&layout=compact" alt="vinayytyagi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinayytyagi&show_icons=true&locale=en" alt="vinayytyagi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayytyagi&" alt="vinayytyagi" /></p>
 
 
 
