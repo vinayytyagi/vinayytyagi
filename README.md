@@ -6,11 +6,9 @@
 
 ###
 
-
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayytyagi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=true&order=2" height="160" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=vinayytyagi&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=20&date_format=M%20j%5B,%20Y%5D&order=3" height="160" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayytyagi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=true&order=2" height="155" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=vinayytyagi&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=20&date_format=M%20j%5B,%20Y%5D&order=3" height="156" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinayytyagi&radius=200&theme=dracula&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
@@ -80,8 +78,13 @@
 
 ###
 
+<br clear="both">
+
+<img align="right" height="200" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif"  />
+
+###
+
 <div align="left">
- 
   <a href="https://www.linkedin.com/in/vinayytyagi/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
@@ -96,6 +99,9 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
 </div>
+
+###
+
 <br>
 <br>
  <a href="https://www.leetcode.com/vinayytyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vinayytyagi" height="50" width="60" /></a>
