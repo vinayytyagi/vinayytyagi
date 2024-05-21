@@ -12,6 +12,15 @@
 </div>
 
 
+<div>
+        <h1>Vinay Kumar</h1>
+        <p>Hello! I'm a passionate and dedicated Computer Science and Engineering student. I have a keen interest in <span style="font-weight: bold; text-decoration: underline;">web development</span>, <span style="font-weight: bold; text-decoration: underline;">artificial intelligence</span>, and <span style="font-weight: bold; text-decoration: underline;">open-source contributions</span>. With a strong foundation in programming languages like <span style="font-weight: bold; text-decoration: underline;">JavaScript</span> and <span style="font-weight: bold; text-decoration: underline;">C/C++</span>, and hands-on experience in frameworks such as <span style="font-weight: bold; text-decoration: underline;">React</span>, <span style="font-weight: bold; text-decoration: underline;">Next.js</span>, and <span style="font-weight: bold; text-decoration: underline;">Node.js</span>, I strive to build scalable and efficient applications.</p>
+    </div>
+
+
+
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayytyagi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=true&order=2" height="160" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=vinayytyagi&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=20&date_format=M%20j%5B,%20Y%5D&order=3" height="160" alt="streak graph"  />
