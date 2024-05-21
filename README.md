@@ -18,6 +18,20 @@
     </div>
 
 
+  <div>
+        <h1>Vinay Kumar</h1>
+        <p>
+            Hello! I'm a passionate and dedicated Computer Science and Engineering student. I have a keen interest in 
+            <span style="font-weight: bold; text-decoration: underline;">web development</span>, 
+            <span style="font-weight: bold; text-decoration: underline;">artificial intelligence</span>, and 
+            <span style="font-weight: bold; text-decoration: underline;">open-source contributions</span>. With a strong foundation in programming languages like 
+            <span style="font-weight: bold; text-decoration: underline;">JavaScript</span> and 
+            <span style="font-weight: bold; text-decoration: underline;">C/C++</span>, and hands-on experience in frameworks such as 
+            <span style="font-weight: bold; text-decoration: underline;">React</span>, 
+            <span style="font-weight: bold; text-decoration: underline;">Next.js</span>, and 
+            <span style="font-weight: bold; text-decoration: underline;">Node.js</span>, I strive to build scalable and efficient applications.
+        </p>
+    </div>
 
 
 
