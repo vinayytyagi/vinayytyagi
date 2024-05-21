@@ -8,30 +8,9 @@
 
 <div>
   <h1>Vinay Kumar</h1>
-  <p>Hello! I'm a passionate and dedicated Computer Science and Engineering student. I have a keen interest in web development, artificial intelligence, and open-source contributions. With a strong foundation in programming languages like <strong>JavaScript</strong> and <strong>C/C++</strong>, and hands-on experience in frameworks such as <strong>React</strong>, <strong>Next.js</strong>, and <strong>Node.js</strong>, I strive to build scalable and efficient applications.</p>
+  <p>Hello! I'm a passionate and dedicated Computer Science and Engineering student. I have a keen interest in <strong>web development</strong>, <strong>artificial intelligence</strong>, and <strong>open-source contributions</strong>. With a strong foundation in programming languages like <strong>JavaScript</strong> and <strong>C/C++</strong>, and hands-on experience in frameworks such as <strong>React</strong>, <strong>Next.js</strong>, and <strong>Node.js</strong>, I strive to build scalable and efficient applications.</p>
 </div>
 
-
-<div>
-        <h1>Vinay Kumar</h1>
-        <p>Hello! I'm a passionate and dedicated Computer Science and Engineering student. I have a keen interest in <span style="font-weight: bold; text-decoration: underline;">web development</span>, <span style="font-weight: bold; text-decoration: underline;">artificial intelligence</span>, and <span style="font-weight: bold; text-decoration: underline;">open-source contributions</span>. With a strong foundation in programming languages like <span style="font-weight: bold; text-decoration: underline;">JavaScript</span> and <span style="font-weight: bold; text-decoration: underline;">C/C++</span>, and hands-on experience in frameworks such as <span style="font-weight: bold; text-decoration: underline;">React</span>, <span style="font-weight: bold; text-decoration: underline;">Next.js</span>, and <span style="font-weight: bold; text-decoration: underline;">Node.js</span>, I strive to build scalable and efficient applications.</p>
-    </div>
-
-
-  <div>
-        <h1>Vinay Kumar</h1>
-        <p>
-            Hello! I'm a passionate and dedicated Computer Science and Engineering student. I have a keen interest in 
-            <span style="font-weight: bold; text-decoration: underline;">web development</span>, 
-            <span style="font-weight: bold; text-decoration: underline;">artificial intelligence</span>, and 
-            <span style="font-weight: bold; text-decoration: underline;">open-source contributions</span>. With a strong foundation in programming languages like 
-            <span style="font-weight: bold; text-decoration: underline;">JavaScript</span> and 
-            <span style="font-weight: bold; text-decoration: underline;">C/C++</span>, and hands-on experience in frameworks such as 
-            <span style="font-weight: bold; text-decoration: underline;">React</span>, 
-            <span style="font-weight: bold; text-decoration: underline;">Next.js</span>, and 
-            <span style="font-weight: bold; text-decoration: underline;">Node.js</span>, I strive to build scalable and efficient applications.
-        </p>
-    </div>
 
 
 
