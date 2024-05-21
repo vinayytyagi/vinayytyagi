@@ -98,14 +98,14 @@
 </div>
 <br>
 <br>
- <a href="https://www.leetcode.com/vinayytyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vinayytyagi" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/vinayytyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vinayytyagi" height="30" width="40" /></a>
+ <a href="https://www.leetcode.com/vinayytyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vinayytyagi" height="50" width="60" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/vinayytyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vinayytyagi" height="50" width="60" /></a>
 
 ###
 
 
 
 
-<img align="right" height="600" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif"  />
+<img align="right" height="200" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif"  />
 
 ###
