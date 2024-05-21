@@ -6,6 +6,12 @@
 
 ###
 
+<div>
+  <h1>Vinay Kumar</h1>
+  <p>Hello! I'm a passionate and dedicated Computer Science and Engineering student. I have a keen interest in web development, artificial intelligence, and open-source contributions. With a strong foundation in programming languages like JavaScript and C/C++, and hands-on experience in frameworks such as React, Next.js, and Node.js, I strive to build scalable and efficient applications.</p>
+</div>
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayytyagi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=true&order=2" height="160" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=vinayytyagi&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=20&date_format=M%20j%5B,%20Y%5D&order=3" height="160" alt="streak graph"  />
