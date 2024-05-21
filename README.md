@@ -8,7 +8,7 @@
 
 <div>
   <h1>Vinay Kumar</h1>
-  <p>Hello! I'm a passionate and dedicated Computer Science and Engineering student. I have a keen interest in <strong>web development</strong>, <strong>artificial intelligence</strong>, and <strong>open-source contributions</strong>. With a strong foundation in programming languages like <strong>JavaScript</strong> and <strong>C/C++</strong>, and hands-on experience in frameworks such as <div color="red">React</div>, <strong>Next.js</strong>, and <strong>Node.js</strong>, I strive to build scalable and efficient applications.</p>
+  <p>Hello! I'm a passionate and dedicated Computer Science and Engineering student. I have a keen interest in <strong>web development</strong>, <strong>artificial intelligence</strong>, and <strong>open-source contributions</strong>. With a strong foundation in programming languages like <strong>JavaScript</strong> and <strong>C/C++</strong>, and hands-on experience in frameworks such as <box color="red">React</box>, <strong>Next.js</strong>, and <strong>Node.js</strong>, I strive to build scalable and efficient applications.</p>
 </div>
 
 
