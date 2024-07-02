@@ -20,6 +20,18 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinayytyagi&radius=220&theme=dracula&area=true&order=5&hide_border=true&hide_title=false" height="320" alt="activity-graph graph"  />
 </div>
 
+
+## All DSA Badges @LeetCode
+<p align="center">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="60px" style="margin-right: 50px;">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="60px" style="margin-right: 10px;">
+    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-04.gif" width="60px" style="margin-right: 10px;">
+    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-03.gif" width="60px" style="margin-right: 10px;">
+    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-02.gif" width="60px" style="margin-right: 10px;">
+    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-01.gif" width="60px">
+</p>
+
+
 ###
 
 <div align="left">
