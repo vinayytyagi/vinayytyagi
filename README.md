@@ -32,7 +32,7 @@
 </p>
 
 
-### Skills and Tech stack
+## Skills and Tech stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" alt="javascript logo"  />
