@@ -1,13 +1,14 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=vinayytyagi.vinayytyagi&left_color=darkslategrey&right_color=blue&left_text=Profile%20Views%20"  />
+<!--   <img src="https://visitor-badge.laobi.icu/badge?page_id=vinayytyagi.vinayytyagi&left_color=darkslategrey&right_color=blue&left_text=Profile%20Views%20"  /> -->
 </div>
 
 ###
 
+
 <div>
-  <h1>Vinay Kumar</h1>
+  <h1>Vinay Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>  
   <p>Hello! &nbsp; I'm a passionate and dedicated Computer Science and Engineering student. I have a keen interest in <strong>web development</strong>, <strong>artificial intelligence</strong>, and <strong>open-source contributions</strong>. With a strong foundation in programming languages like <strong>JavaScript</strong> and <strong>C/C++</strong>, and hands-on experience in frameworks such as <strong>React</strong>, <strong>Next.js</strong>, and <strong>Node.js</strong>, I strive to build scalable and efficient applications.</p>
 </div>
 
@@ -15,8 +16,8 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayytyagi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=true&order=2" height="160" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=vinayytyagi&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=20&date_format=M%20j%5B,%20Y%5D&order=3" height="160" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayytyagi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=true&order=2" height="190" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=vinayytyagi&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=20&date_format=M%20j%5B,%20Y%5D&order=3" height="190" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinayytyagi&radius=220&theme=dracula&area=true&order=5&hide_border=true&hide_title=false" height="320" alt="activity-graph graph"  />
 </div>
 
@@ -96,35 +97,26 @@
   <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="50" alt="socketio logo"  />
 </div>
 
-###
 
-<br clear="both">
 
-<img align="right" height="200" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif"  />
 
-###
+<br>
+<br>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/vinayytyagi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/vinayytyagi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href="https://www.facebook.com/profile.php?id=100085872334587" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/vinayytyagi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-</div>
+
+## 📧 You can contact me on:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-henrique-a2a089252/)
+
+_I am open to new opportunities/contributions._
+
+<br>
+
+
+
+
+
 
 ###
 
- <a href="https://www.leetcode.com/vinayytyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vinayytyagi" height="50" width="60" /></a>
- &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/vinayytyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vinayytyagi" height="50" width="60" /></a>
-
-###
 
